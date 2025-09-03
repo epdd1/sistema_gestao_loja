@@ -1,3 +1,4 @@
+#teste na branch nova
 class Cliente:
     def __init__(self, nome, email, pontos_fidelidade = 0):
         self.nome = nome
